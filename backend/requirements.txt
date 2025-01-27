@@ -1,0 +1,5 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+fastai>=2.7.12
+pillow>=10.0.0
+python-multipart 
